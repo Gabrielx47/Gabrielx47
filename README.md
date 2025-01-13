@@ -1,7 +1,7 @@
 ### Olá, meu nome é Gabriel! 👋
-<p style="text-align:center;">
+<div style="text-align:center;">
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielx47&show_icons=true&theme=dark&locale=pt-br)
-</p>
+</div>
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 <!--
