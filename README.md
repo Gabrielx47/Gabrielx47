@@ -2,7 +2,7 @@
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielx47&show_icons=true&theme=dark&locale=pt-br){style="margin: 0 auto"}
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielx47&show_icons=true&theme=dark&locale=pt-br){style="margin: 0 auto"}
 
 <!--
 **Gabrielx47/Gabrielx47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
