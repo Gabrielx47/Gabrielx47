@@ -1,7 +1,9 @@
 ### Olá, meu nome é Gabriel! 👋
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-<img align="center"  src="https://github-readme-stats.vercel.app/api?username=Gabrielx47&show_icons=true&theme=dark&locale=pt-br">
+<p align="center" >
+  <img src="https://github-readme-stats.vercel.app/api?username=Gabrielx47&show_icons=true&theme=dark&locale=pt-br">
+</p>
 
 <!--
 **Gabrielx47/Gabrielx47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
