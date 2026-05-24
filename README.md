@@ -1,9 +1,42 @@
 ### Olá, meu nome é Gabriel! 👋
+Seja bem-vindo ao meu perfil. Sou um desenvolvedor de software focado na construção de sistemas robustos, sempre buscando utilizar as melhores práticas da engenharia de software. Atualmente, tenho me dedicado ao estudo do Java e do framework Spring Boot.
+
+---
+
+🛠️ **Tecnologias e Ferramentas**
+
+##### Linguagens
+[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,cs,ts,js,html,css,latex,md)](https://skillicons.dev)
+
+##### Frameworks e Ferramentas
+[![My Skills](https://skillicons.dev/icons?i=docker,idea,vscode,maven,gradle,spring,flask,vue,react)](https://skillicons.dev)
+
+##### Banco de dados
+[![My Skills](https://skillicons.dev/icons?i=mysql,orocle)](https://skillicons.dev)
+
+---
+
+📈 **Atividade**
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-<p align="center" >
-  <img src="https://github-readme-stats.vercel.app/api?username=Gabrielx47&show_icons=true&theme=dark&locale=pt-br">
-</p>
+---
+
+📬 **Vamos nos conectar?**
+
+<div style="display:flex; justify-content: center; gap: 0.8rem; padding-top: 0.8rem">
+  <a href="https://www.linkedin.com/in/gabriel--mendonca/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge">
+  </a>
+
+  <a href="mailto:gabrieldossantosmendonca0@gmail.com">
+    <img alt="Static Badge" src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge">
+  </a>
+
+  <a href="https://medium.com/@gabriel-mendonca">
+    <img alt="Static Badge" src="https://img.shields.io/badge/MEDIUM-black?style=for-the-badge">
+  </a>
+</div>
+
 
 <!--
 **Gabrielx47/Gabrielx47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
