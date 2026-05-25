@@ -3,7 +3,7 @@ Seja bem-vindo ao meu perfil. Sou um desenvolvedor de software focado na constru
 
 ---
 
-🛠️ **Tecnologias e Ferramentas**
+#### 🛠️ **Tecnologias e Ferramentas**
 
 ##### Linguagens
 [![My Skills](https://skillicons.dev/icons?i=java,c,cpp,cs,ts,js,html,css,latex,md)](https://skillicons.dev)
@@ -16,14 +16,14 @@ Seja bem-vindo ao meu perfil. Sou um desenvolvedor de software focado na constru
 
 ---
 
-📈 **Atividade**
+#### 📈 **Atividade**
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 ---
 
-📬 **Vamos nos conectar?**
+#### 📬 **Vamos nos conectar?**
 
-<div style="display:flex; justify-content: center; gap: 0.8rem; padding-top: 0.8rem">
+<div align="center">
   <a href="https://www.linkedin.com/in/gabriel--mendonca/">
     <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge">
   </a>
@@ -33,7 +33,7 @@ Seja bem-vindo ao meu perfil. Sou um desenvolvedor de software focado na constru
   </a>
 
   <a href="https://medium.com/@gabriel-mendonca">
-    <img alt="Static Badge" src="https://img.shields.io/badge/MEDIUM-black?style=for-the-badge">
+    <img alt="Static Badge" src="https://img.shields.io/badge/MEDIUM-white?style=for-the-badge">
   </a>
 </div>
 
