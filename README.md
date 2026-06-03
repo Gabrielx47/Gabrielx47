@@ -6,10 +6,10 @@ Seja bem-vindo ao meu perfil. Sou um desenvolvedor de software focado na constru
 #### 🛠️ **Tecnologias e Ferramentas**
 
 ##### Linguagens
-[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,cs,ts,js,html,css,latex,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,cs,py,ts,js,html,css,latex,md)](https://skillicons.dev)
 
 ##### Frameworks e Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=docker,idea,vscode,maven,gradle,spring,flask,vue,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,idea,vscode,maven,gradle,spring,flask,vue,react)](https://skillicons.dev)
 
 ##### Banco de dados
 [![My Skills](https://skillicons.dev/icons?i=mysql,orocle)](https://skillicons.dev)
